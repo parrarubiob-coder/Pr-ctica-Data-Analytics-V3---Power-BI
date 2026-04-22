@@ -104,7 +104,9 @@ Clasificación del riesgo:
 - Visualización de países según nivel de riesgo  
 
 ### Funcionalidades avanzadas
-- Tooltips personalizados con comparación entre país y promedio del continente  
+- Tooltips personalizados con comparación entre país y promedio del continente
+  <img width="757" height="522" alt="image" src="https://github.com/user-attachments/assets/b4d124aa-0aeb-4861-a9c5-83dfbb0af4d4" />
+
 
 ---
 
