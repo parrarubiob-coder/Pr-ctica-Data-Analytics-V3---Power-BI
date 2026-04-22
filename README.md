@@ -1,5 +1,10 @@
 # Global Public Debt vs GDP Analysis
 
+## Language
+
+- English (default)
+- Español: [Ver versión en español](README_ES.md)
+- 
 ## Project Overview
 Exploratory data analysis of public debt and GDP across countries using Power BI, focused on understanding debt sustainability through the Debt-to-GDP ratio and identifying high-risk economies.  
 
