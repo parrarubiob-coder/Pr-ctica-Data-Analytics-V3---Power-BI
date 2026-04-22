@@ -111,7 +111,9 @@ Risk classification:
 - Donut chart showing countries by risk level  
 
 ### Advanced Features
-- Custom tooltips comparing each country with its continental average  
+- Custom tooltips comparing each country with its continental average
+  <img width="757" height="522" alt="image" src="https://github.com/user-attachments/assets/59b76c2f-1c83-4212-9d38-efb138883671" />
+
 
 ---
 
